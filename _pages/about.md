@@ -10,7 +10,7 @@ redirect_from:
 
 I am Cyril, Research Engineer and Data scientist at MFGLabs Paris working on anomaly detection and LLM models.
 
-Previously, I worked at [Thales](https://www.thalesgroup.com/en/global/innovation/research-and-technology/) as Research Science Intern (Air traffic Optimization of CDG Airport using transformers and bidirectional GRUs) and at [Skills4all](https://www.skills4all.com/) (recommandation systems).
+Previously, I worked at [Thales](https://www.thalesgroup.com/en/global/innovation/research-and-technology/) as Research Science Intern (Air traffic Optimization of CDG Airport and conflict resolution) and at [Skills4all](https://www.skills4all.com/) (classification and recommandation systems).
 
 
 ## Research Interests
