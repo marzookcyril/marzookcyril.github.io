@@ -15,7 +15,7 @@ Previously, I worked at [Thales](https://www.thalesgroup.com/en/global/innovatio
 
 ## Research Interests
 
-My primary research focus lies in the intersection of Natural Language Processing (NLU) and Natural Language Generation (NLG), along with a keen interest in Deep Reinforcement Learning.
+My primary research focus lies in the intersection of Natural Language Processing (NLP) and Natural Language Generation (NLG), along with a keen interest in Deep Reinforcement Learning.
 
 Understanding the potential risks and societal implications of Artificial Intelligence, I am committed to exploring ethical considerations within AI development. I consider the ethical facets as crucial components of responsible AI innovation. My belief is that anticipating and addressing ethical challenges is paramount for the responsible evolution of AI.
 
